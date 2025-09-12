@@ -10,7 +10,7 @@
 ---
 
 ### 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Flávia%20Hidalgo%20Pereira-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flaviahidalgopereira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Flávia%20Hidalgo%20Pereira-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavia-hidalgo-pereira-57526a270/)
 ---
 
 ## 💻 Languages
